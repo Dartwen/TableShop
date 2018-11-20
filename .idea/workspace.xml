@@ -35,7 +35,7 @@
           <entry key="css" value="6" />
           <entry key="html" value="1" />
           <entry key="js" value="15" />
-          <entry key="json" value="3" />
+          <entry key="json" value="4" />
           <entry key="shopList" value="1" />
         </counts>
       </usages-collector>
@@ -43,7 +43,7 @@
         <counts>
           <entry key="CSS" value="6" />
           <entry key="HTML" value="1" />
-          <entry key="JSON" value="3" />
+          <entry key="JSON" value="4" />
           <entry key="JavaScript" value="23" />
         </counts>
       </usages-collector>
@@ -78,7 +78,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -88,6 +88,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -254,12 +259,12 @@
       <workItem from="1542556826595" duration="32944000" />
       <workItem from="1542649623654" duration="37000" />
       <workItem from="1542657727311" duration="2333000" />
-      <workItem from="1542660305332" duration="15370000" />
+      <workItem from="1542660305332" duration="15734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89649000" />
+    <option name="totallyTimeSpent" value="90013000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,6 +401,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
